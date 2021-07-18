@@ -10,4 +10,4 @@
 - Go to [chrome://extensions](chrome://extensions/)
 - Click on Load Unpacked which you can see in the top left side.
 - Select the path where you cloned/downloaded this project.
-- An icon ![icon-entertainment](/icon-entertainment.png)  should appear besides your Chrome Search bar
+
